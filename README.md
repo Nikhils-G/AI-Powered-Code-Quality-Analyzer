@@ -1,8 +1,3 @@
-Here’s an enhanced version of your `README.md` for the **AI-Powered Code Quality Analyzer**, with more detailed explanations and additional content in each section:
-
----
-
-```markdown
 # AI-Powered Code Quality Analyzer
 
 ## Overview
@@ -224,6 +219,3 @@ This project is licensed under the MIT License. See `LICENSE` for more informati
 
 Thank you for using **AI-Powered Code Quality Analyzer**! We hope it assists you in improving your code quality and achieving best practices in Java development.
 ```
-
-
-
