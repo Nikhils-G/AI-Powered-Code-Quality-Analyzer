@@ -218,4 +218,3 @@ This project is licensed under the MIT License. See `LICENSE` for more informati
 ---
 
 Thank you for using **AI-Powered Code Quality Analyzer**! We hope it assists you in improving your code quality and achieving best practices in Java development.
-```
